@@ -28,5 +28,5 @@ Computer Network A Top-Down Approach Practice Answer
   - 编程作业答案：[Ping_Client.py](lab05/Ping_Client.py)  (TO DO)
 
 ## 备注
-- 文档翻译作者：[https://github.com/moranzcw](moranzcw)
+- 文档翻译作者：[moranzcw](https://github.com/moranzcw)
 - 项目源地址：[moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
